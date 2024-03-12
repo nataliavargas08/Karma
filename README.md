@@ -9,9 +9,10 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: noname
-- :woman: noname
-- :woman: Bego
+
+- :man: minombre
+- :woman: Begoña Sánchez Fernández
+- :woman: Natalia Vargas Fernández
 
 
 Proyecto (código): 
