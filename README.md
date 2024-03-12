@@ -19,7 +19,7 @@ Proyecto (código):
 Tipo/Género:  
 - [ ] FictionCiberpunk  
 - [ ] Reality/tribus urbanas  
-- [ x] Comic
+- [x] Comic
 
 
 
