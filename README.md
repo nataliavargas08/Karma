@@ -9,8 +9,8 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: Lucas Cañizares Felguera
-- :woman: Begoña Sánchez Fernández
+- :man: minombre
+- :woman: minombre
 - :woman: Natalia Vargas Fernández
 
 
