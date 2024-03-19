@@ -10,7 +10,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 
-- :man: minombre
+- :man: Lucas Cañizares Felguera
 - :woman: Begoña Sánchez Fernández
 - :woman: Natalia Vargas Fernández
 
@@ -25,23 +25,23 @@ Tipo/Género:
 
 
 ## Resumen
-
+Una chica se pelea con su novio y su gato místico se venga de él.
 
 ### Personaje
 
-![](img-nobody.png)
+![IMG_2097](https://github.com/nataliavargas08/Karma/assets/163114178/6b627f48-e6c5-4e9f-bc92-7b846055c8e5)
 
-Nombre: 
+Nombre: Karma
 
 
 ### Historia
-
+Una chica resulta muy dolida tras una turbulenta relación. En un momento de desquicie, realiza un ritual de manifestación y es en el que descubre la conexión de su gato, Karma con otros planos astrales.
 
 ### Contexto
 
 
 ### Conflicto 
-
+Ruptura y venganza.
 
 
 ### Productos
