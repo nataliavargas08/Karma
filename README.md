@@ -46,7 +46,7 @@ Ruptura y venganza.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y [enlace a interactivo](https://h5p.org/h5p/embed/1479676)) 
 
 
 - Banner/Teaser:  (enlace) 
