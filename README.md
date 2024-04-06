@@ -25,20 +25,31 @@ Tipo/Género:
 
 
 ## Resumen
-Una chica se pelea con su novio y su gato místico se venga de él.
+Una chica resulta muy dolida tras una turbulenta relación. En un momento de desolación, realiza un ritual de manifestación y es en el que descubre la conexión de su gato, Karma con otros planos astrales.
 
-### Personaje
-
+## Personaje
 ![IMG_2097](https://github.com/nataliavargas08/Karma/assets/163114178/6b627f48-e6c5-4e9f-bc92-7b846055c8e5)
+### Karma
+Karma es un pequeño gato de color rojizo. Su existencia trasciende los límites del plano astral en el que vivimos al tratarse de la personificación del Karma, ese elemento igualador universal que emplea la energía universal para equilibrarlo todo.
 
-Nombre: Karma
+![1712046928_660bc3503499f](https://github.com/nataliavargas08/Karma/assets/163114178/e65b37d1-95ea-447c-a75d-a9f002e5d0d3)
+### Sombra
+Sombra es una chica que se encuentra dolida y enfadada tras descubrir que su novio, Rain, le estaba siendo infiel.
+
+![1712047031_660bc3b71216e](https://github.com/nataliavargas08/Karma/assets/163114178/73342103-6634-40e6-b981-8c48dc5ae810)
+### Rain
+Exnovio de Sombra. La ha traicionado.
+
 
 
 ### Historia
-Una chica resulta muy dolida tras una turbulenta relación. En un momento de desquicie, realiza un ritual de manifestación y es en el que descubre la conexión de su gato, Karma con otros planos astrales.
+Después de un día muy largo, Sombra llega a su casa por fin. Al instante en que cierra la puerta de su habitación rompe en un desconsolado llanto, porque ha roto con su novio. En un intento por relajarse, enciende velas, incienso y crea un espacio seguro donde meditar. Una vez está más tranquila, comienza una tirada de tarot mientras escucha el disco de Reputation de Taylor Swift para responder sus dudas y conocer la verdad detrás de Rain.
+Cuando Karma, su gato, se da cuenta del estado de su amiga, se aproxima a ella ronroneando, tratando de consolar a la chica que le rescató de las calles. Sin embargo, la energía que ha creado en su habitación potenciada por los sentimientos evocados por la música de la cantautora, crea un portal a otro plano astral por el que Karma se ve irremediablemente absorbido.
+En el inframundo, Karma entabla un viaje en el que descubre todo lo que ha pasado en la relación entre Sombra y Rain, ya que está dentro de la tirada de cartas. Allí, conoce y aprende sobre comportamientos negativos que pueden darse en las relaciones: el narcisismo, el ghosting, el love bombing o la manipulación emocional, mientras que es guiado por la música de Taylor. Conforme avanza por esos recuerdos, el gato reflexiona y escribe en su Libro Kármico, con el fin de hacer que quienes hayan obrado mal tengan su merecido destino.
+Sombra y Karma despiertan aturdidos, las cartas del tarot siguen sobre la cama e, inexplicablemente, Sombra siente una sensación de alivio en su pecho. 
 
 ### Contexto
-
+![LÍNEA TEMPORAL](https://github.com/nataliavargas08/Karma/assets/163114178/7fce7ad1-eecb-4e83-a6c8-5488bc90d83e)
 
 ### Conflicto 
 Ruptura y venganza.
