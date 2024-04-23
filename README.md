@@ -68,6 +68,7 @@ Ruptura y venganza.
 
 
 ### Conclusiones/Valoración del equipo
+El uso de GitHub, Miro, Arcweave y H5P para colaborar en la creación de una historia es una combinación interesante y potente de herramientas. GitHub permite una gestión eficiente de versiones y colaboración en código, mientras que Miro y Arcweave facilitan la visualización y estructuración de ideas. H5P añade una capa interactiva a la historia, mejorando la experiencia del usuario. En conjunto, estas herramientas proporcionan un entorno colaborativo completo para la creación de historias de manera eficiente y creativa. Consideramos la experiencia del uso de estas plataformas como muy positiva, ya que los utilizaríamos en otros proyectos audiovisuales o narrativos y han ayudado al disfrute en el desarrollo de nuestra historia.
 
 ------
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
