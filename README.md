@@ -32,15 +32,17 @@ Una chica resulta muy dolida tras una turbulenta relación. En un momento de des
 ### Karma
 Karma es un pequeño gato de color rojizo. Su existencia trasciende los límites del plano astral en el que vivimos al tratarse de la personificación del Karma, ese elemento igualador universal que emplea la energía universal para equilibrarlo todo.
 
-![1712046928_660bc3503499f](https://github.com/nataliavargas08/Karma/assets/163114178/e65b37d1-95ea-447c-a75d-a9f002e5d0d3)
+![Sombra](https://github.com/nataliavargas08/Karma/assets/163114178/61db164b-791b-488c-baa1-bf9ed866a6d0)
 ### Sombra
 Sombra es una chica que se encuentra dolida y enfadada tras descubrir que su novio, Rain, le estaba siendo infiel.
 
-![1712047031_660bc3b71216e](https://github.com/nataliavargas08/Karma/assets/163114178/73342103-6634-40e6-b981-8c48dc5ae810)
+![Rain](https://github.com/nataliavargas08/Karma/assets/163114178/cd5ea210-dc6a-4140-9965-5df199b03751)
 ### Rain
 Exnovio de Sombra. La ha traicionado.
 
-
+![Taylor](https://github.com/nataliavargas08/Karma/assets/163114178/272aea16-fab7-4f61-8618-b9f0512e56ce)
+### Tayor Swift
+Taylor Swift es una de las cantautoras más famosas del mundo. Su música inspira a Sombra y a Karma en esta aventura.
 
 ### Historia
 Después de un día muy largo, Sombra llega a su casa por fin. Al instante en que cierra la puerta de su habitación rompe en un desconsolado llanto, porque ha roto con su novio. En un intento por relajarse, enciende velas, incienso y crea un espacio seguro donde meditar. Una vez está más tranquila, comienza una tirada de tarot mientras escucha el disco de Reputation de Taylor Swift para responder sus dudas y conocer la verdad detrás de Rain.
