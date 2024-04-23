@@ -60,11 +60,10 @@ Ruptura y venganza.
 - Personaje: (img personaje y [enlace a interactivo](https://h5p.org/h5p/embed/1479676)) 
 
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser:  https://cloud.protopie.io/p/7f4b168d83b30f85682adacf 
 
 
-- Storytelling: (enlace) 
-
+- Storytelling: [(enlace)](https://arcweave.com/app/project/vVlj9LW0gq/play)
 
 
 
